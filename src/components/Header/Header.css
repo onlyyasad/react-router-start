@@ -1,0 +1,7 @@
+nav{
+    display: flex;
+    column-gap: 16px;
+}
+nav a{
+    text-decoration: none;
+}
